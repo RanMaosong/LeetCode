@@ -34,7 +34,7 @@ public class LeetCode_53 {
         int n = nums[0];
         for (int i=1; i<nums.length; ++i) {
             n = n < 0 ? nums[i] : n + nums[i];
-            max = Math.max(n, max)
+            max = Math.max(n, max);
         }
 
         return max;
