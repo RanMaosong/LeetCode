@@ -12,6 +12,7 @@ public class LeetCode_66 {
             digits[i] = 0;
         }
 
+
         int[] newDigits = new int[len+1];
         newDigits[0] = 1;
         return newDigits;
