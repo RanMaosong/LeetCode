@@ -18,7 +18,6 @@ public class LeetCode_67 {
             --i;
             --j;
         }
-
         if (carry != 0)
             result.append(carry);
         return result.reverse().toString();
