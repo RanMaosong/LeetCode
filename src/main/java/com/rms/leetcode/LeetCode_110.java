@@ -21,7 +21,6 @@ public class LeetCode_110 {
     private int heightOfTree(TreeNode root) {
         if (root == null)
             return 0;
-
         int left = heightOfTree(root.left) + 1;
         int right = heightOfTree(root.right) + 1;
         return Math.max(left, right);
