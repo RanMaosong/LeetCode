@@ -1,7 +1,105 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba5bf96d-a9c4-42f7-a1a3-eedf9f5db152" name="Default Changelist" comment="" />
+    <list default="true" id="ba5bf96d-a9c4-42f7-a1a3-eedf9f5db152" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/GuessGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_100.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_101.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_104.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_107.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_108.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_110.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_111.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_112.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_118.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_119.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_121.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_122.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_125.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_136.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_141.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_155.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_160.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_167.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_168.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_169.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_171.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_172.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_189.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_190.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_191.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_198.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_20.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_202.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_203.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_204.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_205.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_21.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_219.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_220.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_225.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_226.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_231.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_232.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_234.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_235.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_26.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_263.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_27.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_28.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_35.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_38.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_53.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_58.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_66.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_67.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_69.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_70.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_83.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_88.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_206.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_217.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_237.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_24.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_242.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_257.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_258.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_268.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_278.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_283.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_290.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_292.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_303.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_344.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_345.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_349.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_367.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_371.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_374.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LongestPalindromicSubstring_005.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/MedianOfTwoSortedArrays_004.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/ReverseInteger_007.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/VersionControl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/ZigZagConversion_006.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/_008__String_to_Integer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/_009_PalindromeNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/colorfilter$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/colorfilter$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/colorfilter$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/colorfilter$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/colorfilter$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/colorfilter.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,24 +125,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="112" />
+          <entry key="java" value="115" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="112" />
+          <entry key="JAVA" value="115" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="2" />
           <entry key="ft" value="96" />
-          <entry key="java" value="24328" />
+          <entry key="java" value="25003" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="24328" />
+          <entry key="JAVA" value="25003" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="VTL" value="96" />
         </counts>
@@ -53,113 +151,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_303.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="19" selection-start-line="14" selection-start-column="8" selection-end-line="19" selection-end-column="19" />
-              <folding>
-                <element signature="e#189#190#0" expanded="true" />
-                <element signature="e#215#216#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_344.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_345.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="566">
-              <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_349.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="471">
-              <caret line="34" column="22" selection-start-line="14" selection-start-column="8" selection-end-line="34" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#420#429#0" expanded="true" />
-                <element signature="e#472#481#0" expanded="true" />
-                <element signature="e#573#582#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_367.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
-              <folding>
-                <element signature="e#564#565#0" expanded="true" />
-                <element signature="e#618#619#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_371.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="9" selection-start-line="9" selection-start-column="8" selection-end-line="15" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_374.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
-              <folding>
-                <element signature="e#628#629#0" expanded="true" />
-                <element signature="e#653#654#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_383.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" column="16" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="24" selection-end-column="20" />
-              <folding>
-                <element signature="e#287#307#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_387.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="24" column="18" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="24" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_389.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_400.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="23" column="19" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="23" selection-end-column="19" />
+            <state relative-caret-position="171">
+              <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+              <folding>
+                <element signature="e#624#625#0" expanded="true" />
+                <element signature="e#696#697#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -187,7 +187,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/rms/leetcode/LeetCode_118.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/rms/leetcode/LeetCode_119.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/rms/leetcode/LeetCode_121.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/rms/leetcode/LeetCode_122.java" />
@@ -238,6 +237,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_383.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_387.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_389.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_400.java" />
       </list>
     </option>
   </component>
@@ -313,12 +313,12 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///home/song/Work/Code/Java/LeetCode/src/main/java/com/rms/leetcode/TreeNode.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547188601816" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547192431704" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -332,20 +332,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Leetcode_374">
-    <configuration name="LeetCode_225" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rms.leetcode.LeetCode_225" />
-      <module name="leetcode-problems" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.rms.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Leetcode_400">
     <configuration name="Leetcode_242" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.rms.leetcode.Leetcode_242" />
       <module name="leetcode-problems" />
@@ -398,20 +385,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Leetcode_400" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rms.leetcode.Leetcode_400" />
+      <module name="leetcode-problems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rms.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.LeetCode_225" />
       <item itemvalue="Application.Leetcode_242" />
       <item itemvalue="Application.Leetcode_268" />
       <item itemvalue="Application.Leetcode_367" />
       <item itemvalue="Application.Leetcode_374" />
+      <item itemvalue="Application.Leetcode_400" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Leetcode_400" />
         <item itemvalue="Application.Leetcode_374" />
         <item itemvalue="Application.Leetcode_367" />
         <item itemvalue="Application.Leetcode_268" />
         <item itemvalue="Application.Leetcode_242" />
-        <item itemvalue="Application.LeetCode_225" />
       </list>
     </recent_temporary>
   </component>
@@ -432,12 +432,12 @@
       <workItem from="1541147270123" duration="1541000" />
       <workItem from="1545458855753" duration="9206000" />
       <workItem from="1545985118925" duration="4508000" />
-      <workItem from="1547044881294" duration="18211000" />
+      <workItem from="1547044881294" duration="22035000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104546000" />
+    <option name="totallyTimeSpent" value="108370000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-6" width="1920" height="1023" extended-state="6" />
@@ -452,14 +452,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3225084" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3225084" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39977604" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32922733" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32922733" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3281075" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -480,13 +480,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rms/leetcode/LeetCode_125.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="17" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="26" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/rms/leetcode/LeetCode_136.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -874,8 +867,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_389.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="19" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="23" selection-end-column="19" />
+        <state relative-caret-position="228">
+          <caret line="12" column="20" selection-start-line="11" selection-start-column="8" selection-end-line="23" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_400.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <folding>
+            <element signature="e#624#625#0" expanded="true" />
+            <element signature="e#696#697#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
