@@ -29,24 +29,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="134" />
+          <entry key="java" value="135" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="134" />
+          <entry key="JAVA" value="135" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="2" />
           <entry key="ft" value="96" />
-          <entry key="java" value="31073" />
+          <entry key="java" value="31274" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="31073" />
+          <entry key="JAVA" value="31274" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="VTL" value="96" />
         </counts>
@@ -63,18 +63,6 @@
               <folding>
                 <element signature="e#177#178#0" expanded="true" />
                 <element signature="e#210#211#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_429.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -142,11 +130,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_448.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+              <caret line="17" column="49" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_453.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="19" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="17" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -185,7 +185,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/rms/leetcode/LeetCode_204.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/rms/leetcode/LeetCode_205.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_24.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_206.java" />
@@ -236,6 +235,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_443.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_447.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_448.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_453.java" />
       </list>
     </option>
   </component>
@@ -320,7 +320,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///home/song/Work/Code/Java/LeetCode/src/main/java/com/rms/leetcode/TreeNode.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547475016516" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547475328160" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -439,12 +439,12 @@
       <workItem from="1541147270123" duration="1541000" />
       <workItem from="1545458855753" duration="9206000" />
       <workItem from="1545985118925" duration="4508000" />
-      <workItem from="1547044881294" duration="45548000" />
+      <workItem from="1547044881294" duration="46617000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="131883000" />
+    <option name="totallyTimeSpent" value="132952000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-6" width="1920" height="1023" extended-state="6" />
@@ -487,13 +487,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rms/leetcode/LeetCode_219.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_217.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -911,7 +904,17 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_448.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+          <caret line="17" column="49" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_453.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="19" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="17" selection-end-column="19" />
         </state>
       </provider>
     </entry>
