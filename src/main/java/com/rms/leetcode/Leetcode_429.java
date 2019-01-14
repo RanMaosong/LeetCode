@@ -15,7 +15,7 @@ class Node1 {
 
     public Node1() {}
 
-    public Node1(int _val,List<Node> _children) {
+    public Node1(int _val,List<Node1> _children) {
         val = _val;
         children = _children;
     }
