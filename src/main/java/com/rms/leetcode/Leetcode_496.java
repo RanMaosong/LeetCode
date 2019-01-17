@@ -5,7 +5,7 @@ import java.util.Map;
 
 public class Leetcode_496 {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
-        Map<Integer, Integer> map = new HashMap<>();
+        Map<Integer, Integer> map = new HashMap<Integer, Integer>();
         for (int i=0; i < nums2.length; ++i) {
             map.put(nums2[i], i);
         }
