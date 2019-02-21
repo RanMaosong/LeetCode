@@ -18,6 +18,6 @@ public class Leetcode_674 {
             ++j;
         }
 
-        return max > (j - i) ? max : (j-i);;
+        return max > (j - i) ? max : (j-i);
     }
 }

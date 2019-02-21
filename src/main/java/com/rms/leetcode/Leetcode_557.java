@@ -1,14 +1,12 @@
 package com.rms.leetcode;
 
-<<<<<<< HEAD
+
 /**
  * @author Maosong Ran
  * @date 2019/01/23
  * @email maosongran@gmail.com
  */
-public class Leetcode_557 {
 
-=======
 public class Leetcode_557 {
     public String reverseWords(String s) {
         char[] c = s.toCharArray();
@@ -36,5 +34,4 @@ public class Leetcode_557 {
             c[j] = tmp;
         }
     }
->>>>>>> a63ee03288431fd92ddeed1730d94c36d0fa935a
 }
