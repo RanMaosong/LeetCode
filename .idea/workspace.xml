@@ -26,12 +26,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="10544" />
+          <entry key="java" value="10546" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="10544" />
+          <entry key="JAVA" value="10546" />
         </counts>
       </usages-collector>
     </session>
@@ -125,8 +125,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_762.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="472">
-              <caret line="36" column="5" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="36" selection-end-column="5" />
+            <state relative-caret-position="285">
+              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -246,7 +246,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550822207802" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550822738510" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -349,16 +349,15 @@
       <workItem from="1547622623589" duration="6690000" />
       <workItem from="1547992378237" duration="5797000" />
       <workItem from="1548221426258" duration="2500000" />
-      <workItem from="1550495518174" duration="46992000" />
+      <workItem from="1550495518174" duration="47320000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38733000" />
+    <option name="totallyTimeSpent" value="39061000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-6" width="1920" height="1023" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.255603" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -771,8 +770,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_762.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="472">
-          <caret line="36" column="5" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="36" selection-end-column="5" />
+        <state relative-caret-position="285">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
         </state>
       </provider>
     </entry>
