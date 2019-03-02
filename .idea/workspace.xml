@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3a5538c-6e2c-4ac5-89c7-a4a050af0230" name="Default Changelist" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_832.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_836.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -94,11 +94,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Leetcode_832.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Leetcode_832.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_832.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
               <caret line="15" column="18" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="15" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Leetcode_836.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_836.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="5" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -165,6 +175,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_824.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_830.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_832.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_836.java" />
       </list>
     </option>
   </component>
@@ -387,12 +398,12 @@
       <workItem from="1550495518174" duration="51254000" />
       <workItem from="1551089889013" duration="374000" />
       <workItem from="1551527998702" duration="2550000" />
-      <workItem from="1551530875804" duration="2410000" />
+      <workItem from="1551530875804" duration="2800000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48329000" />
+    <option name="totallyTimeSpent" value="48719000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="28" width="1696" height="1026" extended-state="6" />
@@ -439,13 +450,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_543.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="5" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_551.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
@@ -805,6 +809,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="15" column="18" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="15" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_836.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="5" selection-end-column="5" />
           <folding />
         </state>
       </provider>
