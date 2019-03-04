@@ -1,5 +1,8 @@
 package com.rms.leetcode;
 
+import java.util.HashSet;
+import java.util.Set;
+
 public class Leetcode_874 {
     public int robotSim(int[] commands, int[][] obstacles) {
         int[] dx = new int[]{0, 1, 0, -1};
