@@ -13,4 +13,5 @@ public class Leetcode_665 {
         return count < 2;
     }
 
+
 }
