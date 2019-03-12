@@ -2,209 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed5f9ac5-43ad-47e6-8c05-3b10c8297e7d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_17.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_15.java" afterPath="$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_15.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_883.java" afterPath="$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_883.java" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/App.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Employee.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/GuessGame.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/KthLargest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_10.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_100.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_101.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_104.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_107.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_108.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_110.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_111.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_112.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_118.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_119.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_121.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_122.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_125.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_13.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_136.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_14.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_141.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_155.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_160.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_167.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_168.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_169.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_171.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_172.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_189.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_190.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_191.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_198.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_20.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_202.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_203.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_204.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_205.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_21.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_219.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_220.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_225.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_226.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_231.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_232.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_234.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_235.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_26.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_263.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_27.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_28.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_35.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_38.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_53.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_58.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_66.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_67.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_69.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_70.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_83.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LeetCode_88.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_206.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_217.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_237.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_24.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_242.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_257.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_258.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_268.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_278.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_283.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_290.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_292.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_303.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_344.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_345.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_349.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_367.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_371.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_374.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_383.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_387.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_389.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_400.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_401.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_404.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_405.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_409.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_412.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_414.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_415.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_427.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_434.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_437.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_438.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_441.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_443.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_447.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_448.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_453.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_455.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_458.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_459.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_461.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_463.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_475.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_476.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_482.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_485.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_492.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_496.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_500.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_501.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_504.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_506.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_507.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_520.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_521.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_530.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_532.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_538.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_541.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_543.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_551.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_557.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_558.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_559.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_561.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_563.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_566.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_572.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_575.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_581.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_589.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_594.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_598.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_599.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_605.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_606.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_617.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_628.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_633.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_637.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_643.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_645.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_653.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_657.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_661.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_665.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_669.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_671.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_674.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_680.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_682.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_686.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_687.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_690.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_693.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_696.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_697.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_700.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_703.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_704.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_705.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_706.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_707.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_709.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_717.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_720.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_724.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_788.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_796.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_804.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_806.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Leetcode_811.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/ListNode.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/LongestPalindromicSubstring_005.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/MedianOfTwoSortedArrays_004.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/MyHashMap$MapNode.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/MyHashMap.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/MyHashSet.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/MyLinkedList$LinkNode.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/MyLinkedList.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Node.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Node1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Node2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/ReverseInteger_007.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/Solution.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/TreeNode.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/VersionControl.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/ZigZagConversion_006.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/_008__String_to_Integer.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/_009_PalindromeNumber.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/colorfilter$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/colorfilter$2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/colorfilter$3.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/colorfilter$4.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/colorfilter$5.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rms/leetcode/colorfilter.class" afterPath="" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_18.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/rms/leetcode/lEETCODE_19.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -279,7 +79,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Leetcode_17.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Leetcode_17.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_17.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="242">
@@ -289,6 +89,26 @@
                 <element signature="e#1171#1172#0" expanded="true" />
                 <element signature="e#1215#1216#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Leetcode_18.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_18.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="296">
+              <caret line="32" column="37" lean-forward="true" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lEETCODE_19.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/rms/leetcode/lEETCODE_19.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="15" column="37" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="37" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -322,6 +142,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_15.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_883.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_17.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_18.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rms/leetcode/lEETCODE_19.java" />
       </list>
     </option>
   </component>
@@ -357,6 +179,32 @@
             <path>
               <item name="leetcode-problems" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode-problems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode-problems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode-problems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode-problems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -503,12 +351,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552293599840</updated>
-      <workItem from="1552293601466" duration="9318000" />
+      <workItem from="1552293601466" duration="11777000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9318000" />
+    <option name="totallyTimeSpent" value="11777000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -516,7 +364,7 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32908705" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32908705" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -524,7 +372,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32908705" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32908705" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15989584" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -637,6 +485,22 @@
             <element signature="e#1171#1172#0" expanded="true" />
             <element signature="e#1215#1216#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_18.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="32" column="37" lean-forward="true" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rms/leetcode/lEETCODE_19.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="37" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="37" />
+          <folding />
         </state>
       </provider>
     </entry>
