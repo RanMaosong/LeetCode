@@ -10,6 +10,24 @@ public class LeetCode_35 {
 
         return i;
     }
+    public int searchInsert1(int[] nums, int target) {
+        if (target < nums[0])
+            return 0;
+        else if (target > nums[nums.length-1])
+            return nums.length;
+        int i =0, j = nums.length - 1, mid=0;
+        while (i <= j) {
+            mid = (i + j) / 2;
+            if (nums[mid] > target)
+                j = mid-1;
+            else if (nums[mid] < target)
+                i = mid+1;
+            else
+                return mid;
+        }
+
+        return nums[mid] > target?mid:mid+1;
+    }
 
     public static void main(String[] args) {
         LeetCode_35 leetCode = new LeetCode_35();
