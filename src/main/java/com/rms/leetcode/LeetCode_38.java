@@ -35,6 +35,6 @@ public class LeetCode_38 {
         LeetCode_38 leetCode = new LeetCode_38();
         System.out.println(leetCode.countAndSay(3));
         System.out.println(leetCode.countAndSay(4));
-        System.out.println(leetCode.countAndSay(6));
+        System.out.println(leetCode.countAndSay(5));
     }
 }
