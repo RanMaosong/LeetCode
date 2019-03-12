@@ -35,7 +35,5 @@ public class Leetcode_15 {
 
     }
 
-    public static void main(String[] args) {
-        new Leetcode_15().threeSum(new int[]{0, 0, 0})
-    }
+
 }

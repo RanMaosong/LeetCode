@@ -1,6 +1,6 @@
 package com.rms.leetcode;
 
-<<<<<<< HEAD
+
 import java.util.HashMap;
 import java.util.Map;
 
@@ -10,8 +10,8 @@ public class Leetcode_883 {
         Map<Integer, Integer> map2 = new HashMap<>();
         int res = 0;
         int row = grid.length, col = grid[0].length;
-        for (int i=0; i < row; ++i) {
-            for (int j=0; j < col; ++j) {
+        for (int i = 0; i < row; ++i) {
+            for (int j = 0; j < col; ++j) {
                 int count = map1.getOrDefault(i, 0);
                 count = count > grid[i][j] ? count : grid[i][j];
                 map1.put(i, count);
@@ -33,7 +33,7 @@ public class Leetcode_883 {
         }
 
         return res;
-=======
+    }
 public class Leetcode_883 {
     public int projectionArea(int[][] grid) {
         int m = grid.length, n = grid[0].length;
@@ -57,6 +57,5 @@ public class Leetcode_883 {
         for (int num : rows)
             res += num;
         return  res;
->>>>>>> fd6ddf587e32ba5249e9dea742d1fa537708474c
     }
 }
