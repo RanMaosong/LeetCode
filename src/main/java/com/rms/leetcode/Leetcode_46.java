@@ -48,7 +48,7 @@ public class Leetcode_46 {
 
         return res;
     }
-
+    // 错误的
     public List<List<Integer>> permute2(int[] nums) {
         if (nums.length == 0)
             return new ArrayList<List<Integer>>();
@@ -72,6 +72,6 @@ public class Leetcode_46 {
     }
 
     public static void main(String[] args) {
-        System.out.print(new Leetcode_46().permute2(new int[]{1, 2, 3}));
+        System.out.print(new Leetcode_46().permute1(new int[]{1, 2, 3}));
     }
 }
