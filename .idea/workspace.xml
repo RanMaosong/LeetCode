@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed5f9ac5-43ad-47e6-8c05-3b10c8297e7d" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_43.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_39.java" afterPath="$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_39.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -71,11 +71,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Leetcode_39.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Leetcode_39.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_39.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="516">
+            <state relative-caret-position="518">
               <caret line="52" column="63" lean-forward="false" selection-start-line="52" selection-start-column="63" selection-end-line="52" selection-end-column="63" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Leetcode_43.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_43.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="472">
+              <caret line="100" column="39" lean-forward="true" selection-start-line="75" selection-start-column="8" selection-end-line="100" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -120,6 +130,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_34.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_36.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_39.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_43.java" />
       </list>
     </option>
   </component>
@@ -213,7 +224,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Leetcode_39">
+  <component name="RunManager" selected="Application.Leetcode_43">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -229,25 +240,6 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.rms.leetcode.LeetCode_38" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="leetcode-problems" />
-      <envs />
-    </configuration>
-    <configuration name="Leetcode_22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.rms.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.rms.leetcode.Leetcode_22" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -305,6 +297,25 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.rms.leetcode.Leetcode_39" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="leetcode-problems" />
+      <envs />
+    </configuration>
+    <configuration name="Leetcode_43" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.rms.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.rms.leetcode.Leetcode_43" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -391,19 +402,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Leetcode_22" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Leetcode_29" />
-      <item index="2" class="java.lang.String" itemvalue="Application.LeetCode_38" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Leetcode_34" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Leetcode_39" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Leetcode_29" />
+      <item index="1" class="java.lang.String" itemvalue="Application.LeetCode_38" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Leetcode_34" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Leetcode_39" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Leetcode_43" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Leetcode_39" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Leetcode_34" />
-        <item index="2" class="java.lang.String" itemvalue="Application.LeetCode_38" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Leetcode_29" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Leetcode_22" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Leetcode_43" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Leetcode_39" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Leetcode_34" />
+        <item index="3" class="java.lang.String" itemvalue="Application.LeetCode_38" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Leetcode_29" />
       </list>
     </recent_temporary>
   </component>
@@ -420,16 +431,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552293599840</updated>
-      <workItem from="1552293601466" duration="39673000" />
+      <workItem from="1552293601466" duration="43882000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39673000" />
+    <option name="totallyTimeSpent" value="43882000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -440,8 +450,8 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32908705" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32908705" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32908705" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32908705" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13645834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -652,8 +662,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_39.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
+        <state relative-caret-position="518">
           <caret line="52" column="63" lean-forward="false" selection-start-line="52" selection-start-column="63" selection-end-line="52" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rms/leetcode/Leetcode_43.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="100" column="39" lean-forward="true" selection-start-line="75" selection-start-column="8" selection-end-line="100" selection-end-column="39" />
           <folding />
         </state>
       </provider>
