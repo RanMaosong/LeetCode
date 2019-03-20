@@ -19,6 +19,10 @@ public class ListNode {
     }
 
     public String toString() {
+        return  val + "";
+    }
+
+    public String show() {
         StringBuilder sb = new StringBuilder();
         ListNode tmp = this;
         while (tmp != null) {
